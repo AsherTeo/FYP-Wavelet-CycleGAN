@@ -18,9 +18,9 @@ We proposed Haar Wavelet as our Wavelet Transform. Haar wavelet one of the simpl
 
 ![image](https://user-images.githubusercontent.com/78581569/216279525-ddef9b4a-c152-460b-84f1-a8a2afe6eb2e.png)
 
-In Discrete Wavelet Transform, signals are filtered by the low pass and high pass filter denoted as g(n) and h(n) shown in the above diagram. The two frequency sub bands are then further decomposed by applying low pass and high pass filter on g(n) and h(n) to produce four different down sampled frequency components. They are the LL (Approximation), LH (Horizontal), HL (Vertical), HH (Diagonal). 
+In Discrete Wavelet Transform, signals are filtered by the low pass and high pass filter denoted as g(n) and h(n) shown in the above diagram. The two frequency sub bands are then further decomposed by applying low pass and high pass filter on g(n) and h(n) to produce four different down sampled frequency components. They are the LL (Approximation), LH (Horizontal), HL (Vertical), HH (Diagonal) shown below respectively.
 
-![a](https://user-images.githubusercontent.com/78581569/216280595-fff912a1-e589-4bf5-9671-935d53cf5058.png) 
+![image](https://user-images.githubusercontent.com/78581569/216280595-fff912a1-e589-4bf5-9671-935d53cf5058.png) 
 ![image](https://user-images.githubusercontent.com/78581569/216280616-99dafefe-941d-4f95-a967-e991ac44f7a1.png)
 ![image](https://user-images.githubusercontent.com/78581569/216280636-e1dff99f-915e-4caa-8cba-08cd969b6e8a.png)
 ![image](https://user-images.githubusercontent.com/78581569/216280658-e7efb6ad-9b4a-4ad4-9f60-1366ecd27119.png)
