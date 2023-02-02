@@ -3,8 +3,6 @@ Problem
 
 CycleGAN is a Generative Adversial Network (GAN) that consists of two Generators and two Discriminators. The problem is that CycleGAN produced discoloration when removing the rain and the low frequency noise as shown in the diagram below can be further enhanced and eliminated. Therefore, Wavelet CycleGAN was implemented to enhance the existing CycleGAN by removing rain more efficiently and preserving the colours of the image. 
 
-Below are example of Real Rain Image (LEFT), Rain Removal by CycleGAN (MIDDLE), Zoom-in rain-streak (RIGHT). 
-
 ![github-2](https://user-images.githubusercontent.com/78581569/216314764-6e1a4130-db0c-48ee-a526-a1278ee43b24.PNG)
 
 Wavelet Transform
