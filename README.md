@@ -6,6 +6,13 @@ With the advent of technology, self-driving mobile also known as Autonomous Vehi
 
 Real Rain Image (LEFT), Rain Removal by CycleGAN (MIDDLE), Zoom-in rain-streak (RIGHT)
 
+Wavelet Transform
+
+Haar Wavelet is used in this proposed solution. Haar wavelet one of the simplest WT uses an orthogonal and square function on the intervals of [0,1] to capture the frequency components in every spectrum. The input and the output coefficients are equal, thus, is recommended for image reconstruction. The diagram below shown the level 1 Wavelet Decomposition Tree.
+
+![image](https://user-images.githubusercontent.com/78581569/216279525-ddef9b4a-c152-460b-84f1-a8a2afe6eb2e.png)
+
+
 ![image](https://user-images.githubusercontent.com/78581569/216276887-1d614649-5bd0-470d-b559-524d081280c7.png) 
 ![image](https://user-images.githubusercontent.com/78581569/216276918-e0443fe3-0904-4dba-8e4a-1ae6b2ab3131.png) 
 ![image](https://user-images.githubusercontent.com/78581569/216277033-1d98d669-ce7f-4adb-9c40-b8ea8393ce5a.png)
