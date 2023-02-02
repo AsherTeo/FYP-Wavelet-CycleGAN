@@ -22,7 +22,9 @@ In Discrete Wavelet Transform, signals are filtered by the low pass and high pas
 
 Gamma Correction
 
-Gamma Correction is an exponential function that mirrors the non-linearity in human vision. The purpose of the exponential function is to remove the non-linearity. The formula given for Gamma Correction, which is also known as power law, can be expressed as I_enhance= 〖(I/255)〗^(1/γ)
+Gamma Correction is an exponential function that mirrors the non-linearity in human vision. The purpose of the exponential function is to remove the non-linearity. The formula given for Gamma Correction, which is also known as power law, can be expressed as I_enhance = 〖(I/255)〗^(1/γ), where I is the input images and γ is the gamma. 
+
+![github-4](https://user-images.githubusercontent.com/78581569/216321729-d46244e2-6e1b-48fd-8a59-6852fd4f8088.PNG)
 
 Final Solution
 
