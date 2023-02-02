@@ -6,10 +6,7 @@ With the advent of technology, self-driving mobile also known as Autonomous Vehi
 
 Below are example of Real Rain Image (LEFT), Rain Removal by CycleGAN (MIDDLE), Zoom-in rain-streak (RIGHT). 
 
-![image](https://user-images.githubusercontent.com/78581569/216276887-1d614649-5bd0-470d-b559-524d081280c7.png) 
-![image](https://user-images.githubusercontent.com/78581569/216276918-e0443fe3-0904-4dba-8e4a-1ae6b2ab3131.png) 
-![image](https://user-images.githubusercontent.com/78581569/216277033-1d98d669-ce7f-4adb-9c40-b8ea8393ce5a.png)
-
+![github-1](https://user-images.githubusercontent.com/78581569/216314555-919315c4-8021-46ff-a7e3-242991b32a84.PNG)
 
 Wavelet Transform
 
