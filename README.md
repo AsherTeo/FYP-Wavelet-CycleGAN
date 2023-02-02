@@ -28,7 +28,7 @@ Gamma Correction is an exponential function that mirrors the non-linearity in hu
 
 Final Solution
 
-
+![github-5](https://user-images.githubusercontent.com/78581569/216322486-446658e5-7564-4de2-8d25-0f22d8448d32.PNG)
 
 
 
