@@ -1,8 +1,7 @@
 # FYP-Wavelet-CycleGAN
+Problem
 
-Introduction
-
-With the advent of technology, self-driving mobile also known as Autonomous Vehicle (AV) will gradually find its way into our daily lives in the coming years. However, environmental noise such as rain will disrupt the path of the AV which may result in accidents. To eliminate such risks, many researchers have been innovating and implementing new methods to remove rain. The most recent rain removal algorithms are the ID CGAN (Image De-raining using Conditional Generative Adversarial Network) & CycleGAN. 
+CycleGAN is a Generative Adversial Network (GAN) that consists of two Generators and two Discriminators. The problem is that CycleGAN produced discoloration when removing the rain and the low frequency noise as shown in the diagram below can be further enhanced and eliminated. Therefore, Wavelet CycleGAN was implemented to enhance the existing CycleGAN by removing rain more efficiently and preserving the colours of the image. 
 
 Below are example of Real Rain Image (LEFT), Rain Removal by CycleGAN (MIDDLE), Zoom-in rain-streak (RIGHT). 
 
