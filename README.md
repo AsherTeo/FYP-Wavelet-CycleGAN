@@ -26,16 +26,24 @@ Gamma Correction is an exponential function that mirrors the non-linearity in hu
 
 ![github-4](https://user-images.githubusercontent.com/78581569/216321729-d46244e2-6e1b-48fd-8a59-6852fd4f8088.PNG)
 
- - Solution - Wavelet CycleGAN - 
+ - Solution - Wavelet CycleGAN Training- 
 
 ![github-5](https://user-images.githubusercontent.com/78581569/216322486-446658e5-7564-4de2-8d25-0f22d8448d32.PNG)
+
+ - Solution - Wavelet CycleGAN Testing- 
+
 ![github-6](https://user-images.githubusercontent.com/78581569/216323167-fb862d78-d662-4f58-b5de-f0949b18dbaf.PNG)
 
  - Result - 
- 
- ![github-7](https://user-images.githubusercontent.com/78581569/216324959-8b21bcb7-3ecd-4275-9e4c-89f88cc9645b.PNG)
 
-![github-8](https://user-images.githubusercontent.com/78581569/216324986-722ec95f-9a71-4b9c-8d00-2f7c88ec2266.PNG)
+Test-1
+
+![github-10](https://user-images.githubusercontent.com/78581569/216325567-b923ee71-7c60-484a-a8e5-bf69eb8f3463.PNG)
+
+Test-2
+![github-9](https://user-images.githubusercontent.com/78581569/216325627-332a89cf-0e76-4194-9c8f-8e9e2f482fcf.PNG)
+
+Overall Grade: A4 
 
 
 
