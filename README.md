@@ -1,8 +1,5 @@
 # FYP-Wavelet-CycleGAN
 
-![github-poster](https://user-images.githubusercontent.com/78581569/216506224-b72745ec-29e3-4fe3-9fec-3a85f4e34fdc.PNG)
-
-
 - Problem - 
 
 CycleGAN is a Generative Adversial Network (GAN) that consists of two Generators and two Discriminators. The problem is that CycleGAN produced discoloration when removing the rain and the low frequency noise as shown in the diagram below can be further enhanced and eliminated. Therefore, Wavelet CycleGAN was implemented to enhance the existing CycleGAN by removing rain more efficiently and preserving the colours of the image. 
